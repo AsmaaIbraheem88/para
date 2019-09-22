@@ -1,0 +1,1 @@
+<a href="{{ aurl('project-details/?project_id='.$id) }}" class="btn btn-info"><i class="fa fa-eye"></i></a>
